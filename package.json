@@ -1,0 +1,20 @@
+{
+  "name": "h-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass -w sass/ -o dist/css/ --recursive "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma-extensions": "^6.2.7"
+  },
+  "devDependencies": {
+    "bulma": "^0.9.1",
+    "chart.js": "^2.9.4",
+    "node-sass": "^5.0.0"
+  }
+}

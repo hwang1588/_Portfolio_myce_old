@@ -1,0 +1,26 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap');
+/* Web Design developer : CWJ */
+body, input, select, textarea, button {font-family:'Noto Sans KR', Arial, Helvetica, sans-serif ; font-size:12px;color:#232323}
+body {line-height:1;}
+html, body, div, span, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, blockquote, p, b, address, pre, cite, form, fieldset, input, textarea, select, table, th, td, iframe, object, embed, blockquote, abbr, a, acronym, dfn, cite, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, applet, canvas, details, output, ruby, summary, time, mark, audio, video {margin:0; padding:0;}
+h1, h2, h3, h4, h5, h6 {font-size:100%; font-weight:normal;}
+fieldset, img, abbr, acronym {border:0 none;}
+ol, ul {list-style:none;}
+table {border-collapse:collapse; border-spacing:0; border:0 none;}
+caption, th, td {font-weight:normal;}
+address, caption, strong, em, cite {font-weight:normal; font-style:normal;}
+ins {text-decoration:none;}
+del {text-decoration:line-through;}
+input, select, textarea, option, label, button {font-size:100%; font-weight:normal; box-sizing:border-box; outline-style:none;}
+mark {background-color:transparent;}
+img, a, input, select, textarea, label, button, span, em, strong, mark, acronym, abbr, ins {vertical-align:baseline;}
+blockquote, q {quotes:none;}
+blockquote:before, blockquote:after, q:before, q:after {content:''; content:none;}
+legend, caption, hr {display:none;}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display:block;}
+a{text-decoration:none;}
+a:link{text-decoration:none;}
+a:visited{text-decoration:none;}
+a:hover{text-decoration:none;}
+a:active{text-decoration:none;}
