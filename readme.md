@@ -1,4 +1,4 @@
-# Website_Myce(light ver.)
+# Website_Myce(old ver.)
 
 ## Stack
 
